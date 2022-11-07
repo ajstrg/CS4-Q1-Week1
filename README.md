@@ -5,6 +5,7 @@ Task
 Create a Java class that can store information about 2 KPop Dance Groups
 
 (1) name, (2) member count, (3) year of debut
+
 Run 3 operations on the information
 
 (1) sum of members, (2) comparison of year of debut, (3) comparison of members
