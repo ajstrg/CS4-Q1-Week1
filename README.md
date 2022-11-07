@@ -8,6 +8,7 @@ Run 3 operations on the information: (1) sum of members, (2) comparison of year 
 -----
 
 Sample Run
+
 Enter groupname: BTS
 
 Enter number of members: 7
